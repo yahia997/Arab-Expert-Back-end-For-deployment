@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc4f7c11.css",
+    "main.js": "/static/js/main.8189bb5f.js",
+    "static/media/support.svg": "/static/media/support.545f66796c6735a2439401100f25e331.svg",
+    "static/media/user.png": "/static/media/user.51c80e41e99241656b81.png",
+    "static/media/عرب expert dark.svg": "/static/media/عرب expert dark.f48c076514cad62b27dd45b528ad8f4f.svg",
+    "static/media/5star.svg": "/static/media/5star.0f0ce34e567dd709197253fcca650404.svg",
+    "static/media/4star.svg": "/static/media/4star.8fd3474d91e6fdf9396b6fcb731faeac.svg",
+    "static/media/3star.svg": "/static/media/3star.1e708e4a6e50a9a4b454d374501e59c0.svg",
+    "static/media/2star.svg": "/static/media/2star.b70206c678adbfcc5fe4bdb0ea16748d.svg",
+    "static/media/1star.svg": "/static/media/1star.7af720ac5dfa06c91c1a189eb653a834.svg",
+    "static/media/waves.svg": "/static/media/waves.df1b1ddcd8b9620d0acd.svg",
+    "index.html": "/index.html",
+    "static/media/flag.svg": "/static/media/flag.c90b226b52c6070491c87816b5246e30.svg",
+    "static/media/reset.svg": "/static/media/reset.337572332980348a275d4b0ea75d91cf.svg",
+    "static/media/toggle.svg": "/static/media/toggle.d67e1cf16954b135062cf3bf38ec6170.svg",
+    "static/media/book-icon.svg": "/static/media/book-icon.1ad4e75470e575bbe52457a0c56ebe22.svg",
+    "static/media/i.svg": "/static/media/i.b7bcae52208d3d3a5958.svg",
+    "main.bc4f7c11.css.map": "/static/css/main.bc4f7c11.css.map",
+    "main.8189bb5f.js.map": "/static/js/main.8189bb5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc4f7c11.css",
+    "static/js/main.8189bb5f.js"
+  ]
+}
